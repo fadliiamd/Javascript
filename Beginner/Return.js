@@ -1,5 +1,5 @@
 function ambil() {
-    var lempar = "diterima";
+    var lempar = "Diterima";
     return lempar;
 }
 var tampung = ambil();
