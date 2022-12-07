@@ -4,4 +4,4 @@ var negative = -20;
 
 console.log(integers, decimal, negative)
 
-//Number is variations of type number (negative, decimal, integers, etc).
+//Number memiliki banyak jenis atau variasi diantaranya integer(bulat), desimal, negativ, dll.
