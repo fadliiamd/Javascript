@@ -3,4 +3,4 @@ kosong = null;
 
 console.log(kosong)
 
-//Null mean have nothing, different with undefined.
+//Null berarti tidak memiliki nilai/kosong, berbeda dengan undefined.
