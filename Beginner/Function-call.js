@@ -1,4 +1,4 @@
-//The way for make/call the function
+//Cara memanggil atau menggunakan function
 
 //1
 function streetOne() {
@@ -11,7 +11,7 @@ const streetTwo = function () {
 }
 
 //3
-//thid is usually called the new way to make function 
+//Cara ini merupakan gaya baru dalam menggunakan function 
 const streetThree = () => {
     console.log("Street Three")
 }
