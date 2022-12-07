@@ -8,4 +8,4 @@ else
 
 console.log(panjang)
     
-//Boolean only have 2 value (True, and False)
+//Boolean hanya memiliki 2 nilai, yaitu true dan false.
