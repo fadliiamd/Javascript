@@ -27,4 +27,4 @@ function streetTwo() {
 streetOne()
 streetTwo()
 
-//namun, penggunaan if else pada umumnya menggunakan cara yang kedua.
+//namun, penggunaan if else pada umumnya menggunakan cara yang pertama.
