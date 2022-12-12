@@ -5,5 +5,5 @@ while (true) {
     i++;
 }
 
-// Infinity while merupakan salah satu jenis perulangan infinity,
+// Infinity while merupakan salah satu jenis perulangan infinity
 // perbedaan dari infinity for hanya terletak dari cara penulisannya saja.
