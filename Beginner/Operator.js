@@ -8,4 +8,4 @@ function Operator() {
 console.log(Operator());
 
 // Terdapat berbagai macam jenis operator, diantaranya
-// penjumlahan (+), pengurangan (-), pembagian (/), dan perkalian (*)
+// penjumlahan (+), pengurangan (-), pembagian (/), perkalian (*), dan sisa hasil bagi (%)
