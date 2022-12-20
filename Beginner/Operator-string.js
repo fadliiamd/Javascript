@@ -1,5 +1,5 @@
-var x = 'Hai';
-var y = 'Atha';
+var x = 'Hai ';
+var y = 'Atha ';
 var angka = 10;
 var z = x + y + angka;
 
