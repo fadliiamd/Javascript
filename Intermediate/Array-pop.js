@@ -10,5 +10,5 @@ function panggilPop() {
 console.log(panggilPop())
 
 // Fungsi pop ini berguna untuk menghapus data array yang terakhir
-// dapat dilihat pada data array di atas, di mana ketika ditambahkan fungsi pop pada variabel country
-// maka data array yang terakhir pada variabel tersebut ["Marocco"] akan menghilang atau terhapus
+// Dapat dilihat pada data array di atas, di mana ketika ditambahkan fungsi pop pada variabel country
+// Maka data array yang terakhir pada variabel tersebut ["Marocco"] akan menghilang atau terhapus
