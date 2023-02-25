@@ -1,8 +1,8 @@
 var i = 0;
 
-while (i < 10) {
+while (i <= 10) {
     console.log("Ini urutan ke", i);
-    i++;
+    i=i+1;
 }
 
 // While merupakan salah satu jenis kondisi perulangan,
